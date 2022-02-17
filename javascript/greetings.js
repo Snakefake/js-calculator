@@ -1,4 +1,4 @@
-var person;
+let person;
 if(confirm("Are you sure?")) {
         person = prompt("Hi, what's your name?");
         personLastName = prompt("What's your LastName?");
